@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Johnmcmullan94
+- 👀 I’m interested in GitHub, .Net Core, VB.Net
+- 🌱 I’m currently learning GitHub
